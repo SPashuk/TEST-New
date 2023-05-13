@@ -3,4 +3,8 @@
 ## Привет мой друг
 Data 13.05.2023
 
-меня можно найти здесь [htpps:\\google.com](google.com.)
+меня можно найти здесь [ya.ru][def]
+[google.com][def2]
+
+[def]: htpps:\\google.com.
+[def2]: поиск
